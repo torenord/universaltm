@@ -1,4 +1,4 @@
-# UniversalTM
+# Universal TM
 
 En turingmaskinsimulator til bruk i kurset INF2080 på Universitetet i
 Oslo. Koden er en videreutvikling av kode skrevet av Andreas Nakkerud.
