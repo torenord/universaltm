@@ -85,7 +85,7 @@ $ java UniversalTM M2.txt "0000" 100
 ## Hvordan kjøre på tom streng?
 
 ```
-$ java UniversalTM ../universaltm/M2.txt "" 100
+$ java UniversalTM M2.txt "" 100
 --- Started on input "" ------------------------------------
 
  Step | Configuration
